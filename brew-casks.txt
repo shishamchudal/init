@@ -17,3 +17,4 @@ viber
 anydesk
 macs-fan-control
 grammarly-desktop
+stats
