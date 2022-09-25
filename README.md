@@ -1,4 +1,4 @@
 
 ```sh
-xargs brew install < apps.txt
+xargs brew install < https://github.com/shishamchudal/init/blob/main/brew-casks.txt
 ```
