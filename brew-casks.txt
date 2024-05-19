@@ -1,7 +1,6 @@
 iterm2
 raycast
 rectangle
-app-cleaner
 android-platform-tools
 slack
 visual-studio-code
@@ -10,5 +9,4 @@ postman
 docker
 viber
 anydesk
-macs-fan-control
 stats
