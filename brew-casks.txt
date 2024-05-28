@@ -2,7 +2,6 @@ iterm2
 raycast
 rectangle
 android-platform-tools
-slack
 visual-studio-code
 tableplus
 postman
@@ -10,3 +9,5 @@ docker
 viber
 anydesk
 stats
+scroll-reverser
+monitorcontrol
